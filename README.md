@@ -29,7 +29,7 @@ const PORT = 3000
 app.listen(PORT, () => console.log(`Server started on port ${PORT}`))
 ```
 
-### Code for Client Making Requests to HTTP Server
+## Code for Client Making Requests to HTTP Server
 Comments and explanations at `/public/script.js`.
 
 ```js
