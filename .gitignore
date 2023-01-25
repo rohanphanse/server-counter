@@ -1,0 +1,12 @@
+# Replit
+.replit
+replit.nix
+.config
+.upm
+
+# Node.js
+node_modules
+package-lock.json
+
+# Git
+.git
